@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/questLotos/static/css/main.023aeb18.css",
+    "main.js": "/questLotos/static/js/main.3964d87a.js",
+    "index.html": "/questLotos/index.html",
+    "main.023aeb18.css.map": "/questLotos/static/css/main.023aeb18.css.map",
+    "main.3964d87a.js.map": "/questLotos/static/js/main.3964d87a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.023aeb18.css",
+    "static/js/main.3964d87a.js"
+  ]
+}
